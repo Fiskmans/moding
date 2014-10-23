@@ -1,0 +1,17 @@
+[12:37:16] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[12:37:29] [Server thread/INFO]: Loading properties
+[12:37:29] [Server thread/INFO]: Default game type: SURVIVAL
+[12:37:29] [Server thread/INFO]: Generating keypair
+[12:37:36] [main/INFO]: Setting user: Player736
+[12:37:38] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:37:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ModTest
+[12:37:49] [Sound Library Loader/INFO]: Sound engine started
+[12:37:52] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:37:52] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:37:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ModTest
+[12:37:52] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:37:53] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:37:54] [Sound Library Loader/INFO]: Sound engine started
+[12:38:05] [Client thread/INFO]: Stopping!
+orld'/Nether
+[12:37:40] [Server thread/INFO]: Saving chunks for level 'world'/The End
